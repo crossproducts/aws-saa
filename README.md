@@ -20,6 +20,7 @@ The exam has the following content domains and weightings:
 >> <summary><h5></h5></summary>
 >> <br>
 >> </details>
+ 
 -->
 
 ## AWS Services and Features:
@@ -53,7 +54,7 @@ The exam has the following content domains and weightings:
 >> <br>
 >> </details>
 
-> #### Data Storage & Querying
+> #### Data Storage & Querying:
 >> <details close>
 >> <summary><h5>Amazon Athena</h5></summary>
 >> <br>
@@ -63,19 +64,41 @@ The exam has the following content domains and weightings:
 >> ✅ Tip: Remember that Athena queries data directly from S3 using SQL, making it a cost-effective alternative to a traditional data warehouse.  <br>
 >> </details>
 
-##### Amazon Redshift
-##### Amazon OpenSearch Service
-##### AWS Lake Formation
-#### Analytics: Data Visualization & Reporting:
-##### Amazon QuickSight
-#### Analytics: Data Integration w/ Third-Party Data:
-##### AWS Data Exchange
-#### Analytics: Compare Similar Services:
-##### Kinesis vs. MSK → Kinesis is AWS-native; MSK is for Kafka users.
-##### Athena vs. Redshift → Athena is serverless for ad-hoc queries; Redshift is a data warehouse for structured data.
-##### Glue vs. Data Pipeline → Glue is serverless and automated; Data Pipeline gives more control.
-#### Analytics: Exam Quick Wins:
+>> <details close>
+>> <summary><h5>Amazon Redshift</h5></summary>
+>> <br>
+>> </details>
 
+>> <details close>
+>> <summary><h5>Amazon OpenSearch Service</h5></summary>
+>> <br>
+>> </details>
+
+>> <details close>
+>> <summary><h5>AWS Lake Formation</h5></summary>
+>> <br>
+>> </details>
+
+> #### Data Visualization & Reporting:
+>> <details close>
+>> <summary><h5>Amazon QuickSight</h5></summary>
+>> <br>
+>> </details>
+ 
+> #### Data Integration w/ Third-Party Data:
+>> <details close>
+>> <summary><h5>AWS Data Exchange</h5></summary>
+>> <br>
+>> </details>
+ 
+> #### Compare Similar Services:
+>> ##### Kinesis vs. MSK → Kinesis is AWS-native; MSK is for Kafka users.
+>> ##### Athena vs. Redshift → Athena is serverless for ad-hoc queries; Redshift is a data warehouse for structured data.
+>> ##### Glue vs. Data Pipeline → Glue is serverless and automated; Data Pipeline gives more control.
+
+> #### Exam Quick Wins:
+
+--- 
 
 ### Application Integration:
 • Amazon AppFlow
@@ -88,11 +111,17 @@ The exam has the following content domains and weightings:
 Compare Similar Services:
 Exam Quick Wins:
 
+--- 
+
 ### AWS Cost Management:
 • AWS Budgets
 • AWS Cost and Usage Report
 • AWS Cost Explorer
 • Savings Plans
+Compare Similar Services:
+Exam Quick Wins:
+
+--- 
 
 ### Compute:
 • AWS Batch
@@ -103,6 +132,10 @@ Exam Quick Wins:
 • AWS Serverless Application Repository
 • VMware Cloud on AWS
 • AWS Wavelength
+Compare Similar Services:
+Exam Quick Wins:
+
+--- 
 
 ### Containers:
 • Amazon ECS Anywhere
@@ -111,6 +144,10 @@ Exam Quick Wins:
 • Amazon Elastic Container Registry (Amazon ECR)
 • Amazon Elastic Container Service (Amazon ECS)
 • Amazon Elastic Kubernetes Service (Amazon EKS)
+Compare Similar Services:
+Exam Quick Wins:
+
+--- 
 
 ### Database:
 • Amazon Aurora
@@ -123,15 +160,27 @@ Exam Quick Wins:
 • Amazon Quantum Ledger Database (Amazon QLDB)
 • Amazon RDS
 • Amazon Redshift
+Compare Similar Services:
+Exam Quick Wins:
+
+--- 
 
 ### Developer Tools:
 • AWS X-Ray
+Compare Similar Services:
+Exam Quick Wins:
+
+--- 
 
 ### Front-End Web and Mobile:
 • AWS Amplify
 • Amazon API Gateway
 • AWS Device Farm
 • Amazon Pinpoint
+Compare Similar Services:
+Exam Quick Wins:
+
+--- 
 
 ### Machine Learning:
 • Amazon Comprehend
@@ -145,7 +194,10 @@ Exam Quick Wins:
 • Amazon Textract
 • Amazon Transcribe
 • Amazon Translate
+Compare Similar Services:
+Exam Quick Wins:
 
+--- 
 
 ### Management and Governance:
 • AWS Auto Scaling
@@ -167,10 +219,18 @@ Exam Quick Wins:
 • AWS Systems Manager
 • AWS Trusted Advisor
 • AWS Well-Architected Tool
+Compare Similar Services:
+Exam Quick Wins:
+
+--- 
 
 ### Media Services:
 • Amazon Elastic Transcoder
 • Amazon Kinesis Video Streams
+Compare Similar Services:
+Exam Quick Wins:
+
+--- 
 
 ### Migration and Transfer:
 • AWS Application Discovery Service
@@ -180,6 +240,10 @@ Exam Quick Wins:
 • AWS Migration Hub
 • AWS Snow Family
 • AWS Transfer Family
+Compare Similar Services:
+Exam Quick Wins:
+
+--- 
 
 ### Networking and Content Delivery:
 • AWS Client VPN
@@ -192,6 +256,10 @@ Exam Quick Wins:
 • AWS Site-to-Site VPN
 • AWS Transit Gateway
 • Amazon VPC
+Compare Similar Services:
+Exam Quick Wins:
+
+--- 
 
 ### Security, Identity, and Compliance:
 • AWS Artifact
@@ -214,11 +282,19 @@ Exam Quick Wins:
 • AWS Security Hub
 • AWS Shield
 • AWS WAF
+Compare Similar Services:
+Exam Quick Wins:
+
+--- 
 
 ### Serverless:
 • AWS AppSync
 • AWS Fargate
 • AWS Lambda
+Compare Similar Services:
+Exam Quick Wins:
+
+--- 
 
 ### Storage:
 • AWS Backup
@@ -228,7 +304,8 @@ Exam Quick Wins:
 • Amazon S3
 • Amazon S3 Glacier
 • AWS Storage Gatewa
-
+Compare Similar Services:
+Exam Quick Wins:
 
 
 
